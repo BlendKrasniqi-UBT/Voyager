@@ -58,3 +58,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/Assets/3DGamekit/Scenes/Data/LightingData/Level1/LightingData.asset
+/Assets/3DGamekit/Scenes/Data/LightingData/Level2/LightingData.asset
