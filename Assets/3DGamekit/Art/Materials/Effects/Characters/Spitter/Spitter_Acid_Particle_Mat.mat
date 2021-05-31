@@ -4,8 +4,9 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: Spitter_Acid_Particle_Mat
   m_Shader: {fileID: 4800000, guid: f6727f0d9d4c78f4099af3778ab2567c, type: 3}
   m_ShaderKeywords: _ALPHATEST_ON _CUTOUT_ON
@@ -102,10 +103,11 @@ Material:
     - _VertexAnimate: 0
     - _ZWrite: 1
     m_Colors:
-    - _AmbientColor: {r: 0.29173315, g: 0.5, b: 0, a: 1}
+    - _AmbientColor: {r: 1, g: 0.033018887, b: 0.033018887, a: 1}
     - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.8867924, g: 0, b: 0, a: 1}
     - _EmisColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SoftParticleFadeParams: {r: 0, g: 2, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+  m_BuildTextureStacks: []
